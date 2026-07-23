@@ -15,7 +15,7 @@ The objective of this project is to transform raw Amazon sales data into a profe
 
 # 📊 Dashboard Preview
 
-![Dashboard](amazon dashboard.png)
+![Dashboard](amazondashboard.png)
 
 
 # 🛠 Tools Used
