@@ -13,9 +13,6 @@ This project demonstrates practical skills in data visualization, business intel
 The objective of this project is to transform raw Amazon sales data into a professional dashboard that enables business users to monitor performance, identify trends, and support data-driven decision-making.
 
 
-# 📊 Dashboard Preview
-
-![Dashboard](amazondashboard.png)
 
 
 # 🛠 Tools Used
@@ -45,7 +42,9 @@ The dataset includes the following fields:
 - B2B Status
 - Fulfilment
 
+## 📊 Dashboard Preview
 
+![Amazon Sales Analytics Dashboard](amazon-dashboard.png)
 
 # 📈 Dashboard Features
 
